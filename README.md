@@ -65,16 +65,6 @@ According to paraphrase style, they can be classified into five types.
 ## Paraphrase Identification
   * Specially refers to sentential paraphrase identification
     - Given any pair of sentences, automatically identifies whether these two sentences are paraphrases
-
-## Overview of Paraphrase Identification Methods
-  * Classification based methods
-    * Reviewed as a binary classification problem
-    * Compute the similarities between two sentences at different levels which are then used as classification features
-    * Previous works: [Brockett and Dolan, 2005](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/I05-50015B15D.pdf), [Finch et al., 2005](http://www.aclweb.org/anthology/I05-5003), [Malakasiotis, 2009](http://www.aclweb.org/anthology/P09-3004)
-  * Alignment based methods
-    * Align the two sentences and score the pair based on the alignment results
-    * Previous works: [Wu, 2005](http://dl.acm.org/citation.cfm?id=1631867), [Das and Smith, 2009](https://www.aclweb.org/anthology/P/P09/P09-1053.pdf)
-
-More discussion on the previous works are documented [here](https://github.com/wasiahmad/Paraphrase-Identification-Task/blob/master/state-of-art-details.md).
+s
 ## Reference
   * [Paraphrases and Application - Association for Computational Linguistics](http://www.aclweb.org/anthology/C10-4001)
